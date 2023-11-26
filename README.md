@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Sadiq</h1>
-<h3 align="center">A passionate full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate full Stack developer from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-sadiq&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-sadiq" /> </p>
 
@@ -11,8 +11,6 @@
 - 💬 Ask me about **react, react-native**
 
 - 📫 How to reach me **junaidsadiq12@outlook.com**
-
-- ⚡ Fun fact **boring government employee by day...developer by night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
