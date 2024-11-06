@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, react-native**
 
-- 📫 How to reach me **junaidsadiq12@outlook.com**
+- 📫 How to reach me **junaid.sadiq@tuni.fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
